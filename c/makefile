@@ -1,3 +1,5 @@
+# edited version of Phillezi's template
+
 # Author:  	Philip Zingmark
 # GitHub:  	https://github.com/Phillezi
 # Desc:		A simple Makefile template to build c programs with gcc
